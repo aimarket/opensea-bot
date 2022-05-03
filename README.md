@@ -1,5 +1,4 @@
-# opensea-bot
-fetches screenshot from NFT markets using discord
+
 # opensea_bot
 fetchs screenshot from secondary nft markets
 
