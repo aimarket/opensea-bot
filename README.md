@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/Active-No-red" >
 
 # opensea_bot
 fetchs screenshot from secondary nft markets like [opensea](https://opensea.io/).
